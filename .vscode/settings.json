@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\duyix\\.virtualenvs\\tencentcloud-apigateway-sdk-jRO3eDFM\\Scripts\\python.exe",
+    "files.autoSave": "afterDelay",
+    "editor.renderWhitespace": "boundary",
+    "editor.wordWrap": "on",
+    "python.formatting.provider": "yapf"
+}
