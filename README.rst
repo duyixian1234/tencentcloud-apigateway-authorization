@@ -15,6 +15,7 @@ Use
 ----
 
 .. code-block:: python
+
     import os
 
     from apigateway import Auth
